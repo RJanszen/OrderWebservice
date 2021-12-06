@@ -1,0 +1,12 @@
+D:\Projects\Temp\Optimizers.Order\Optimizers.Order.Services.Contracts\bin\Debug\net6.0\Optimizers.Order.Services.Contracts.deps.json
+D:\Projects\Temp\Optimizers.Order\Optimizers.Order.Services.Contracts\bin\Debug\net6.0\Optimizers.Order.Services.Contracts.dll
+D:\Projects\Temp\Optimizers.Order\Optimizers.Order.Services.Contracts\bin\Debug\net6.0\ref\Optimizers.Order.Services.Contracts.dll
+D:\Projects\Temp\Optimizers.Order\Optimizers.Order.Services.Contracts\bin\Debug\net6.0\Optimizers.Order.Services.Contracts.pdb
+D:\Projects\Temp\Optimizers.Order\Optimizers.Order.Services.Contracts\obj\Debug\net6.0\Optimizers.Order.Services.Contracts.csproj.AssemblyReference.cache
+D:\Projects\Temp\Optimizers.Order\Optimizers.Order.Services.Contracts\obj\Debug\net6.0\Optimizers.Order.Services.Contracts.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\Temp\Optimizers.Order\Optimizers.Order.Services.Contracts\obj\Debug\net6.0\Optimizers.Order.Services.Contracts.AssemblyInfoInputs.cache
+D:\Projects\Temp\Optimizers.Order\Optimizers.Order.Services.Contracts\obj\Debug\net6.0\Optimizers.Order.Services.Contracts.AssemblyInfo.cs
+D:\Projects\Temp\Optimizers.Order\Optimizers.Order.Services.Contracts\obj\Debug\net6.0\Optimizers.Order.Services.Contracts.csproj.CoreCompileInputs.cache
+D:\Projects\Temp\Optimizers.Order\Optimizers.Order.Services.Contracts\obj\Debug\net6.0\Optimizers.Order.Services.Contracts.dll
+D:\Projects\Temp\Optimizers.Order\Optimizers.Order.Services.Contracts\obj\Debug\net6.0\ref\Optimizers.Order.Services.Contracts.dll
+D:\Projects\Temp\Optimizers.Order\Optimizers.Order.Services.Contracts\obj\Debug\net6.0\Optimizers.Order.Services.Contracts.pdb

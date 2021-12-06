@@ -1,0 +1,15 @@
+D:\Projects\Temp\Optimizers.Order\Optimizers.Order.Infrastructure.Contracts\bin\Debug\net6.0\Optimizers.Order.Infrastructure.Contracts.deps.json
+D:\Projects\Temp\Optimizers.Order\Optimizers.Order.Infrastructure.Contracts\bin\Debug\net6.0\Optimizers.Order.Infrastructure.Contracts.dll
+D:\Projects\Temp\Optimizers.Order\Optimizers.Order.Infrastructure.Contracts\bin\Debug\net6.0\ref\Optimizers.Order.Infrastructure.Contracts.dll
+D:\Projects\Temp\Optimizers.Order\Optimizers.Order.Infrastructure.Contracts\bin\Debug\net6.0\Optimizers.Order.Infrastructure.Contracts.pdb
+D:\Projects\Temp\Optimizers.Order\Optimizers.Order.Infrastructure.Contracts\bin\Debug\net6.0\Optimizers.Order.Domain.dll
+D:\Projects\Temp\Optimizers.Order\Optimizers.Order.Infrastructure.Contracts\bin\Debug\net6.0\Optimizers.Order.Domain.pdb
+D:\Projects\Temp\Optimizers.Order\Optimizers.Order.Infrastructure.Contracts\obj\Debug\net6.0\Optimizers.Order.Infrastructure.Contracts.csproj.AssemblyReference.cache
+D:\Projects\Temp\Optimizers.Order\Optimizers.Order.Infrastructure.Contracts\obj\Debug\net6.0\Optimizers.Order.Infrastructure.Contracts.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\Temp\Optimizers.Order\Optimizers.Order.Infrastructure.Contracts\obj\Debug\net6.0\Optimizers.Order.Infrastructure.Contracts.AssemblyInfoInputs.cache
+D:\Projects\Temp\Optimizers.Order\Optimizers.Order.Infrastructure.Contracts\obj\Debug\net6.0\Optimizers.Order.Infrastructure.Contracts.AssemblyInfo.cs
+D:\Projects\Temp\Optimizers.Order\Optimizers.Order.Infrastructure.Contracts\obj\Debug\net6.0\Optimizers.Order.Infrastructure.Contracts.csproj.CoreCompileInputs.cache
+D:\Projects\Temp\Optimizers.Order\Optimizers.Order.Infrastructure.Contracts\obj\Debug\net6.0\Optimizers.Order.Infrastructure.Contracts.csproj.CopyComplete
+D:\Projects\Temp\Optimizers.Order\Optimizers.Order.Infrastructure.Contracts\obj\Debug\net6.0\Optimizers.Order.Infrastructure.Contracts.dll
+D:\Projects\Temp\Optimizers.Order\Optimizers.Order.Infrastructure.Contracts\obj\Debug\net6.0\ref\Optimizers.Order.Infrastructure.Contracts.dll
+D:\Projects\Temp\Optimizers.Order\Optimizers.Order.Infrastructure.Contracts\obj\Debug\net6.0\Optimizers.Order.Infrastructure.Contracts.pdb

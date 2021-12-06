@@ -1,0 +1,61 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "17a8fbb4-e0f5-4943-ac39-2fdc51eefd11": {
+      "ProjectGuid": "17a8fbb4-e0f5-4943-ac39-2fdc51eefd11",
+      "DisplayName": "Optimizers.Order",
+      "ColorIndex": 0
+    },
+    "dd50a8d8-5a57-450b-824a-4181d6d8a64a": {
+      "ProjectGuid": "dd50a8d8-5a57-450b-824a-4181d6d8a64a",
+      "DisplayName": "Optimizers.Order.API",
+      "ColorIndex": 1
+    },
+    "3b121b8f-ace7-49c7-b48e-a5396edb45f3": {
+      "ProjectGuid": "3b121b8f-ace7-49c7-b48e-a5396edb45f3",
+      "DisplayName": "Optimizers.Order.Domain",
+      "ColorIndex": 2
+    },
+    "be6a2868-abd3-4ddc-a133-cc2782117f0d": {
+      "ProjectGuid": "be6a2868-abd3-4ddc-a133-cc2782117f0d",
+      "DisplayName": "Optimizers.Order.Services",
+      "ColorIndex": 3
+    },
+    "9df9a42f-7cc3-4ca1-bb49-2a8825c1c1b4": {
+      "ProjectGuid": "9df9a42f-7cc3-4ca1-bb49-2a8825c1c1b4",
+      "DisplayName": "Optimizers.Order.Services.Contracts",
+      "ColorIndex": 4
+    },
+    "1ac8bcdb-5475-476e-87cd-73ec3d42cdf5": {
+      "ProjectGuid": "1ac8bcdb-5475-476e-87cd-73ec3d42cdf5",
+      "DisplayName": "Optimizers.Order.Configuration",
+      "ColorIndex": 5
+    },
+    "944b58c4-1a72-4935-9d4a-730d04142025": {
+      "ProjectGuid": "944b58c4-1a72-4935-9d4a-730d04142025",
+      "DisplayName": "Optimizers.Order.Infrastructure",
+      "ColorIndex": 6
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    },
+    "19e0e7d7-7397-4f9e-a500-8e95e6100e9a": {
+      "ProjectGuid": "19e0e7d7-7397-4f9e-a500-8e95e6100e9a",
+      "DisplayName": "Optimizers.Order.Services.Tests",
+      "ColorIndex": 7
+    },
+    "15978e28-adb3-4b80-9c77-9a361466c8f6": {
+      "ProjectGuid": "15978e28-adb3-4b80-9c77-9a361466c8f6",
+      "DisplayName": "Optimizers.Order.Infrastructure.Contracts",
+      "ColorIndex": 8
+    },
+    "07d778ae-5d59-4384-af26-c802b25ff4f3": {
+      "ProjectGuid": "07d778ae-5d59-4384-af26-c802b25ff4f3",
+      "DisplayName": "Optimizers.Order.Services.Client",
+      "ColorIndex": 9
+    }
+  },
+  "NextColorIndex": 10
+}
